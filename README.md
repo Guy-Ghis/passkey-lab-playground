@@ -1,73 +1,72 @@
-# Welcome to your Lovable project
+# Passkey Lab Playground
 
-## Project info
+## Project Overview
 
-**URL**: https://lovable.dev/projects/abf9649d-6f9e-46a7-8f96-396d9c19acb4
+The Passkey Lab Playground is a demonstration project built to explore and showcase the integration of passkey authentication within modern web applications. It leverages a robust technology stack to provide a seamless and secure user experience.
 
-## How can I edit this code?
+## Key Features
 
-There are several ways of editing your application.
+*   **Passkey Integration**: Demonstrates the implementation of passkey authentication for secure and passwordless login.
+*   **Modern Web Stack**: Built using Vite, React, and TypeScript for a fast, efficient, and maintainable development experience.
+*   **Component-Driven UI**: Utilizes shadcn-ui components, powered by Radix UI and Tailwind CSS, for a consistent, accessible, and customizable user interface.
+*   **Developer-Friendly Setup**: Easy to set up and run locally with clear instructions.
 
-**Use Lovable**
+## Technologies Used
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/abf9649d-6f9e-46a7-8f96-396d9c19acb4) and start prompting.
+*   **Build Tool**: Vite
+*   **Language**: TypeScript
+*   **Frontend Library**: React
+*   **UI Components**: shadcn-ui (Radix UI, Tailwind CSS)
+*   **Styling**: Tailwind CSS
 
-Changes made via Lovable will be committed automatically to this repo.
+## Getting Started
 
-**Use your preferred IDE**
+To get started with the project locally, follow these steps:
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+1.  **Clone the repository**:
+    ```sh
+    git clone <YOUR_GIT_URL>
+    ```
+    *(Replace `<YOUR_GIT_URL>` with the actual Git repository URL)*
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+2.  **Navigate to the project directory**:
+    ```sh
+    cd <YOUR_PROJECT_NAME>
+    ```
+    *(Replace `<YOUR_PROJECT_NAME>` with the name of the cloned directory)*
 
-Follow these steps:
+3.  **Install dependencies**:
+    ```sh
+    npm install
+    ```
+    *(or `yarn install` or `pnpm install` depending on your package manager)*
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+4.  **Start the development server**:
+    ```sh
+    npm run dev
+    ```
+    *(This command starts the development server with hot-reloading and instant preview.)*
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## Deployment
 
-# Step 3: Install the necessary dependencies.
-npm i
+This project is managed and deployed through Lovable.dev.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+To deploy your project:
+1. Visit your project on [Lovable.dev](https://lovable.dev/projects/abf9649d-6f9e-46a7-8f96-396d9c19acb4).
+2. Navigate to **Share** > **Publish**.
 
-**Edit a file directly in GitHub**
+## Contributing
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+We welcome contributions to the Passkey Lab Playground! If you'd like to contribute, please follow these guidelines:
 
-**Use GitHub Codespaces**
+1.  Fork the repository.
+2.  Create a new branch for your feature or bug fix.
+3.  Make your changes and ensure they are well-tested.
+4.  Commit your changes with clear and concise messages.
+5.  Submit a pull request.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Please ensure your code adheres to the project's coding standards and includes relevant documentation.
 
-## What technologies are used for this project?
+## License
 
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/abf9649d-6f9e-46a7-8f96-396d9c19acb4) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
