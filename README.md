@@ -6,64 +6,56 @@ The Passkey Lab Playground is a demonstration project built to explore and showc
 
 ## Key Features
 
-*   **Passkey Integration**: Demonstrates the implementation of passkey authentication for secure and passwordless login.
-*   **Modern Web Stack**: Built using Vite, React, and TypeScript for a fast, efficient, and maintainable development experience.
-*   **Component-Driven UI**: Utilizes shadcn-ui components, powered by Radix UI and Tailwind CSS, for a consistent, accessible, and customizable user interface.
-*   **Developer-Friendly Setup**: Easy to set up and run locally with clear instructions.
+* **Passkey Integration**: Demonstrates the implementation of passkey authentication for secure and passwordless login.
+* **Modern Web Stack**: Built using Vite, React, and TypeScript for a fast, efficient, and maintainable development experience.
+* **Component-Driven UI**: Utilizes shadcn-ui components, powered by Radix UI and Tailwind CSS, for a consistent, accessible, and customizable user interface.
+* **Developer-Friendly Setup**: Easy to set up and run locally with clear instructions.
 
 ## Technologies Used
 
-*   **Build Tool**: Vite
-*   **Language**: TypeScript
-*   **Frontend Library**: React
-*   **UI Components**: shadcn-ui (Radix UI, Tailwind CSS)
-*   **Styling**: Tailwind CSS
+* **Build Tool**: Vite
+* **Language**: TypeScript
+* **Frontend Library**: React
+* **UI Components**: shadcn-ui (Radix UI, Tailwind CSS)
+* **Styling**: Tailwind CSS
 
 ## Getting Started
 
 To get started with the project locally, follow these steps:
 
-1.  **Clone the repository**:
-    ```sh
-    git clone <YOUR_GIT_URL>
-    ```
-    *(Replace `<YOUR_GIT_URL>` with the actual Git repository URL)*
+1. **Clone the repository**:
 
-2.  **Navigate to the project directory**:
     ```sh
-    cd <YOUR_PROJECT_NAME>
+    git clone https://github.com/Guy-Ghis/passkey-lab-playground.git
     ```
-    *(Replace `<YOUR_PROJECT_NAME>` with the name of the cloned directory)*
 
-3.  **Install dependencies**:
+2. **Navigate to the project directory**:
+
+    ```sh
+    cd passkey-lab-playground
+    ```
+
+3. **Install dependencies**:
+
     ```sh
     npm install
     ```
-    *(or `yarn install` or `pnpm install` depending on your package manager)*
 
-4.  **Start the development server**:
+4. **Start the development server**:
+
     ```sh
     npm run dev
     ```
-    *(This command starts the development server with hot-reloading and instant preview.)*
-
-## Deployment
-
-This project is managed and deployed through Lovable.dev.
-
-To deploy your project:
-1. Visit your project on [Lovable.dev](https://lovable.dev/projects/abf9649d-6f9e-46a7-8f96-396d9c19acb4).
-2. Navigate to **Share** > **Publish**.
 
 ## Contributing
 
 We welcome contributions to the Passkey Lab Playground! If you'd like to contribute, please follow these guidelines:
 
-1.  Fork the repository.
-2.  Create a new branch for your feature or bug fix.
-3.  Make your changes and ensure they are well-tested.
-4.  Commit your changes with clear and concise messages.
-5.  Submit a pull request.
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and ensure they are well-tested.
+4. Commit your changes with clear and concise messages.
+5. Submit a pull request.
 
 Please ensure your code adheres to the project's coding standards and includes relevant documentation.
 
